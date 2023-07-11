@@ -34,5 +34,4 @@ npx cypress open
 
 Na interface do Cypress Test Runner, clique no teste que deseja executar.
 
-Para 
 
