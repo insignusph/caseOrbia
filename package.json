@@ -1,0 +1,15 @@
+{
+  "name": "caseOrbia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress run --record --key 8f61e63b-61ca-4828-a076-468f269f8abd"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.0.0"
+  }
+}
